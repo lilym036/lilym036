@@ -3,10 +3,6 @@
 I am a Fullstack Web Developer with a background in psychology. I recently graduated with a Fullstack Web Development certificate from Southern Methodist University. I have experience in both frontend and backend technologies, which are listed below. 
 
  **Frontend Technologies**
-- First item
-- Second item
-- Third item
-- Fourth item
 -  HTML
 -  CSS
 -  JavaScript
