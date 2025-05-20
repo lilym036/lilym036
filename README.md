@@ -19,6 +19,8 @@ I am a Fullstack Web Developer with a background in psychology. I have experienc
 -  MongoDB, Mongoose
 -  REST
 -  GraphQL
+-  Python
+-  C#
 
 A little more about me, I am effective at combining creativity and problem solving to develop user-friendly applications. I am known among others for attention to detail, collaboration, strong communication, and for being conscientious and determined. Please contact me if you have any questions or would like to know more about my projects.  
 
